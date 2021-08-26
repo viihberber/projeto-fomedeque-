@@ -7,11 +7,17 @@ body{
 
 h1{
 text-align: center;
+border-style: groove;
+border-color: white;
+
 }
 
 h2{
 
 text-align: center;
+border-style: groove;
+border-color: white;
+
 }
 img{
 
@@ -71,4 +77,8 @@ th, td{
 tr:nth-child(even) {background-color: #9400D3;}
 table, th, td {
   border: 2px solid black;
+}
+div{
+
+  text-align: center;
 }
